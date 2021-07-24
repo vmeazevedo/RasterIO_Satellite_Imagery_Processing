@@ -4,7 +4,7 @@ Processamento de imagens de satelito via RasterIO, Numpy e Matplotlib.
 Objetivo é acessar as imagens disponibilizadas pelo satelite LandSat-8 que estão armazenadas em um Bucket S3 na cloud da AWS e processar essas imagens.
 
 
-## Pip install
+## Instalando GDAL e RasterIO
 Acessar o link abaixo e baixar os arquivos GDAL e rasterio:
 
 Link: https://www.lfd.uci.edu/~gohlke/pythonlibs/#rasterio
