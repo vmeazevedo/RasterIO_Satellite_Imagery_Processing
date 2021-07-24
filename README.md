@@ -5,6 +5,9 @@ Objetivo √© acessar as imagens disponibilizadas pelo satelite LandSat-8 que est√
 
 ![image](https://user-images.githubusercontent.com/40063504/126878761-c977616a-913c-48e8-b631-59c37b71c84b.png)
 
+### Fotos originais do satelite Landsat:
+
+https://drive.google.com/drive/folders/1BKnLRn6niKWYikL5sYtAaceVUqgkCP14?usp=sharing
 
 
 ## Instalando GDAL e RasterIO
