@@ -1,5 +1,6 @@
 # RasterIO_Satellite_Imagery_Processing
 Processamento de imagens de satelito via RasterIO, Numpy e Matplotlib.
+
 Objetivo é acessar as imagens disponibilizadas pelo satelite LandSat-8 que estão armazenadas em um Bucket S3 na cloud da AWS e processar essas imagens.
 
 
